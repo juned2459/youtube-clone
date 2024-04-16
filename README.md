@@ -1,4 +1,4 @@
-# live app Link :- https://fir-20254.firebaseapp.com/
+# live app Link :- https://magnificent-dolphin-8cf46e.netlify.app/
 
 # APP Structure
  - Head
